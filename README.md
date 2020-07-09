@@ -23,4 +23,4 @@ Please fork this repository and then issue Pull Requests for review.
 
 
 ## COPYRIGHT
-2019 Copyright Notice
+2019 Copyright Notice. All rights reserved.
